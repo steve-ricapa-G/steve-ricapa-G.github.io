@@ -5,8 +5,8 @@
    width:800px;
    margin:5em auto;
    position: fixed;
-  top: -15px;
-   left: 25%;
+   top: 50px;
+   left: 28%;
    display:flex;
    visibility:hidden;
 }
@@ -17,7 +17,7 @@
    text-align: center;
 }
 #card p {
-   font-size: 1.5em;
+   font-size: 1.2em;
    text-align: justify;
    padding-left: 30px; /* Espacio en blanco a la izquierda */
    padding-right: 30px; /* Espacio en blanco a la derecha */
@@ -26,8 +26,8 @@
 
 .side {
    background:#eee;
-   height:550px;
-   width:400px;
+   height:600px;
+   width:500px;
 /*    border:1px solid red; */
    padding:10px;
 }
